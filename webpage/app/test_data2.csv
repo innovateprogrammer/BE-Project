@@ -1,0 +1,422 @@
+,bankName,field,value,
+0,kent_reliance_bank,Acceptable income,"All residential loans must pass the affordability test using our own model. Income from all applicants will be combined for the purpose of affordability. Please use our residential affordability calculator to check your client’s affordability.
+We’ll accept the following forms of income:
+
+Gross annual basic income: 100% - including 100% of guaranteed permanent allowances to include large town weighting allowance, car allowance and housing allowance.
+Overtime, bonus, commission: 50%.
+
+Child maintenance by court order: Up to 100% can be considered (depending on the child age).
+Pension: 100% (state or private).
+
+Child/working family tax credits: Up to 100% can be considered (depending on the child age).
+
+Benefits that are not acceptable include:
+
+Housing benefit.
+Jobseeker’s allowance.
+Mobility allowance.
+
+Self-employed applicants
+Affordability is based on net profit before tax, based on the finalised accounts for the last three years for sole traders/partnerships.
+For limited company directors with a shareholding greater than 25%, income will be assessed in the form of director’s remuneration and dividends.
+Overtime
+If overtime remains constant month on month, we’ll include 50% over a three month period in our affordability calculation.
+If the overtime fluctuates, we’ll include 50% of the average of the last three months in our affordability calculation.
+This is subject to overtime being sustained.
+Commission
+If commission remains constant month on month, we’ll include 50% over a three month period in our affordability calculation.
+If the commission fluctuates, we’ll include 50% of the average of the last three months in our affordability calculation.
+This is subject to commission being sustained.
+How is self-employed income assessed?
+Self-employed: sole trader/partnership
+Annual income will be assessed from the accounting information supplied.
+
+
+
+
+Scenario:
+
+
+Income considered:
+
+
+
+
+Profit has been steadily increasing for the last three years.
+
+
+Based on the last year.
+
+
+
+
+Profit hasn’t been steadily increasing for the last three years.
+
+
+The lowest of the following:The average of the last three years’ net profitThe latest year’s net profit.
+
+
+
+
+Only one year net profit is available.
+
+
+The projected income for the second year from a suitably qualified accountant and a business plan.The level of projected income used can be up to 30% greater than the year one figure.
+
+
+
+
+ 
+Self-employed: limited company
+Income will be taken as per employed applicants plus dividends where appropriate.
+
+
+
+
+Scenario:
+
+
+Income considered:
+
+
+
+
+Director’s salary and/or dividends have been steadily increasing for the last three years.
+
+
+Director’s salary from the last year (plus dividends where appropriate).
+
+
+
+
+Director’s salary and/or dividends haven’t been steadily increasing for the last three years.
+
+
+The lowest of the following:The average of the last three years’ director’s salary (plus dividends where appropriate)The latest year’s director’s salary (plus dividends where appropriate)
+
+
+
+
+Only one year director’s salary and/or dividends is available.
+
+
+The projected income for the second year from a suitably qualified accountant and a business plan (plus dividends where appropriate).The level of projected income used can be up to 30% greater than the year one figure.
+
+
+
+
+ 
+Maintenance income
+We can only accept maintenance income if this is ordered by either the courts or child support agency. It must be in place for the life of the initial mortgage product i.e., two to five years, depending on the product selected.
+This should be evidenced via a minimum of three months’ bank statements, demonstrating payment at the level indicated.
+Government benefits
+Government benefits (excluding child/working tax credits) are not acceptable. Child Benefit can be considered in addition to employed income at the underwriter’s discretion.
+Pension income
+We can accept 100% of private and state pension.
+Rental income
+We can accept 100% of net rental income, which must be evidenced by way of finalised accounts, SA302s, submitted tax calculations or an accountant’s reference.
+We can accept 50% where used as additional income.
+Second income
+We can accept 100% of a second income that is sustainable and held for a minimum of 12 months. Hours worked should be sustainable and not excessive.
+Payslip deductions
+These are considered as anything that can’t be opted out of such as student loans and child support, and are factored into our affordability calculation.",
+1,kent_reliance_bank,Acceptable proof of address,"We aim to get electronic proof of address but if documentation is required we accept the following:
+
+Valid UK driving licence* - photocard (full or provisional) – if not used as proof of identity.
+Current bank debit card statement issued by a regulated financial sector firm in the UK – includes bank or building society savings books (not internet printed) - dated within last three months.
+Current mortgage statement issued by a regulated financial sector firm in the UK - dated within the last 12 months.
+Council tax bill – dated within a year.
+A positive voter’s roll result (please include the reference number or printed copy as evidence).
+
+* In accordance with the DVLA regulations, you’ll need to check the expiry date of the photocard driving licence. If the photo has expired, we may not accept it as proof of address, and therefore other items may be requested.",
+2,kent_reliance_bank,Acceptable proof of identity,"We aim to get electronic proof of identity but if documentation is required we accept the following:
+
+Valid UK/non-UK passport.
+Valid UK driving licence* - photocard (full or provisional).
+HM Forces/police warrant card.
+
+* In accordance with the DVLA regulations, you’ll need to check the expiry date of the photocard driving licence. If the photo has expired, we may not accept it as proof of identity, and therefore other items may be requested.",
+3,kent_reliance_bank,Adverse credit,"Residential mortgages
+We allow a certain amount of adverse credit with levels being dependent on the product chosen. Please read our product guide for further details. As a guide our maximum adverse allowed is:
+
+
+
+
+County court judgments *
+0 in the last 24 months
+
+
+Defaults *
+0 in the last 24 months
+
+
+County court judgments and defaults ignored when one of the following applies
+Less than £300 in total and satisfiedSatisfied more than 12 months agoRegistered more than 24 months ago whether satisfied or not
+
+
+Missed mortgage/secured loan payments
+0 in the last 12 months and currently up to date
+
+
+Unsecured arrears
+2 in the last 12 months and currently up to date
+
+
+Maximum status
+Currently up to date. Previous maximum status ignored
+
+
+Communication, utility & mail order
+Performance ignored where the account balance is less than £500 (single or in aggregate)
+
+
+Debt management plans
+Satisfactorily conducted for minimum of 12 months
+
+
+IVA/DRO/bankruptcy
+Not acceptable
+
+
+Repossessions
+Not acceptable
+
+
+
+* All CCJs and defaults must be paid prior to the application or must meet our ignore CCJ/default criteria
+ 
+Shared ownership
+
+
+
+Missed mortgage/rent arrears
+In the last 12 months aren’t normally accepted but may be considered subject to individual case assessment.
+
+
+Unsecured arrears
+Not counted*
+
+
+County court judgments or registered defaults
+None in the last 36 months. Must be satisfied prior to mortgage application.These are acceptable where one of the following applies:• All CCJs/defaults were registered more than three years ago and satisfied prior to mortgage application• All CCJs/defaults were satisfied more than 12 months prior to application regardless of date of registration• The CCJs/defaults in aggregate amount to less than £300, regardless of date of registration, and were satisfied prior to mortgage application
+
+
+Individual voluntary arrangement (IVA) and discharged bankrupts
+IVA/bankrupts who have been discharged over three years ago and who have no residual debt may be accepted subject to individual case assessment.
+
+
+Repossessions
+Not acceptable.
+
+
+
+* Whilst unsecured arrears are not counted, we reserve the right to consider on a case-by-case basis as part of the full underwrite.",
+4,kent_reliance_bank,Applicant key facts,"Maximum number of applicants: four.
+Age limits: 18-85. Maximum age at end of term is 85 (including lending into retirement).
+Self-employed applicants considered.
+Contractors considered.
+Adverse credit considered.
+Credit score not required but credit checks are.",
+5,kent_reliance_bank,Application and product fees,"Application fee:
+£145, payable at time of application.
+Product fees:
+Please see individual product pages.
+Product switching fee:
+£30, payable at time of product switch.",
+6,kent_reliance_bank,Concrete construction,"These are considered subject to construction type and valuer's comments.
+Any property formed of prefabricated reinforced concrete (PRC) construction designated defective under the Housing Act 1985 must have been prepared under a repair scheme licensed by PRC Homes Ltd. Any adjoining properties must also have the necessary repair certificates.",
+7,kent_reliance_bank,Contractors,"Contractors are considered.
+PAYE contractors
+Applicants employed on a PAYE contract basis must have had their contract renewed at least once, with at least six months to run. The applicant will be required to provide the latest contract and if less than six months remains, the underwriter must assess the likelihood of the contract being renewed (e.g. as evidenced by having been renewed once).
+Self-employed contractors
+Minimum income requirement
+
+There’s no minimum income requirement for contractors. We do, however, require receipt of three months’ personal and business bank statements.
+
+Maximum LTVLoan to value
+
+Maximum 85% applies. This isn’t restricted if two years or more track history. Subject to product restrictions.
+
+Contract term
+
+Contractors must have a minimum of three months’ remaining on their contract at the time of application.
+
+Contract renewal
+
+The applicant must be able to evidence at least one contract renewal with a minimum of 12 months’ sector experience.
+
+Construction industry sub-contractors
+
+Contractors are treated as employed if paid net of tax (self-employed if paid on a gross basis).",
+8,kent_reliance_bank,Employed applicants,"The applicant must provide their previous 12 months’ employment history.
+Proof of income
+
+Latest three months’ payslips.
+Latest three calendar months’ personal bank statements showing income and expenditure.
+
+P60 may be requested where appropriate (e.g. where income fluctuates and month to date figures on payslip cover an insufficient period).",
+9,kent_reliance_bank,Existing OneSavings Bank borrowers,"For applications on behalf of existing residential borrowers, please see the following sections:
+
+Further Advance Application submission.
+Further Advance products.",
+10,kent_reliance_bank,Ex-local authority houses,The property must be outside of pre-emption period.,
+11,kent_reliance_bank,Flats,"Flats in blocks must be of modern construction.
+Flats within high-rise blocks above the 12th floor may be considered on a case-by-case basis as an exception at our discretion. This is subject to the valuer confirming that the position of the flat within the tower block doesn’t detrimentally impact on marketability.
+If the property on which we’re lending is on the fourth floor or above, the property must have a lift.
+Maximum number of floors accepted as standard:
+
+Outside of London: 10 (plus ground floor).
+Within London: 20 (plus ground floor).
+
+Ex-local authority flats:
+These can be considered where:
+
+There is good re-sale value.
+
+The security isn’t in a pre-emption period.
+
+Studio flats
+Must be a minimum of 30m2.
+Must be self-contained including separate services.",
+12,kent_reliance_bank,Further advances,"Standard residential further advances
+Minimum loan: £15,000.
+Maximum loan: No maximum loan available on selected products. Please read our product guide for further details.
+These mortgage products are only available on a repayment basis. 
+
+These mortgage products are portable. Even if your client moves home during the initial special deal period of a mortgage, the remaining benefits (up to the outstanding balance of their existing mortgage) of that special deal can be transferred to their new mortgage with us, subject to our lending criteria at the time of any move. In this case, any early repayment charges won’t be charged but the existing rate won’t apply to any additional funds that your client borrows.",
+13,kent_reliance_bank,Guarantors,"A maximum of one guarantor is accepted.
+Please ensure the application is noted to state which applicant is the guarantor and we’ll ensure they don’t appear on the deeds on the mortgage offer.
+Number of applicants
+The guarantor will count as an applicant on the mortgage. The guarantor mustn’t make the number of applicants on the mortgage exceed four.
+Affordability and evidence
+The guarantor’s income and commitments will be included in our affordability calculation in addition to the applicant’s income. For affordability, we’ll use household expenditure for both the applicant(s) and guarantor(s).
+The guarantor must provide:
+
+Evidence of income.
+Existing commitments.
+Bank statements.
+
+Term
+The term is based on the age of the oldest applicant, including the guarantor.
+If the term takes the guarantor over the age of 70, we’ll only be able to use their pension income for affordability purposes.",
+14,kent_reliance_bank,Income key facts,"One year self-employed applicants and contractors accepted with no minimum income.
+Overtime, bonus and commission accepted at 50%.
+Customers should be registered for UK tax and the source of income must be within the UK unless the application is for a further advance on a Jersey property in which case the customer may be registered for Jersey tax with their source of income from within Jersey.",
+15,kent_reliance_bank,Interest-only,"Acceptable repayment strategies and required evidence
+Asset Backed Interest-Only
+
+
+
+
+Repayment strategy
+
+
+Evidence requirements and criteria
+
+
+
+
+Endowment
+
+
+Copy of the latest projection statement(s) dated within the last 12 months.
+
+
+
+
+Stocks and Shares ISA
+
+
+Copy of the latest investment statement(s) dated within the last 12 months.
+
+
+
+
+Unit trusts/OEICs
+
+
+Copy of the latest investment statement(s) dated within the last 12 months.
+
+
+
+
+Pension
+
+
+Copy of the latest projection statement(s) dated within the last 12 months.
+
+
+
+
+UK stocks and shares
+
+
+Evidence of current ownership.
+
+
+
+
+Savings
+
+
+Copy of passbook/statement of balance dated within the last 12 months.
+
+
+
+
+Premium bonds
+
+
+Evidence of current ownership.
+
+
+
+
+Sale of second home/buy to let property
+
+
+Details of property, evidence of existing secured debt, evidence of current value (estate agent valuation or automated valuation model).
+
+
+
+
+Maximum
+
+
+85% LTV applies.
+
+
+
+
+ 
+Non-Asset Backed Interest-Only
+
+
+
+
+Sale of security property
+
+
+Residential owner occupied maximum is 50% LTV with a minimum equity amount of £200,000.The borrower circumstances must clearly reflect the ability to downsize at term end.",
+16,kent_reliance_bank,Japanese knotweed,Japanese knotweed class C and D are acceptable. Class C will require a satisfactory management plan in place.,
+17,kent_reliance_bank,Loan key facts,"Maximum 85% LTVLoan to value.
+Terms available between 5 and 35 years.
+No maximum loan available on selected products. Please read our product guide for further details.",
+18,kent_reliance_bank,Loan purpose,"The following loan purposes are acceptable:
+
+Purchase of applicant’s main residence.
+Remortgage of applicant’s main residence.
+
+The following loan purposes aren’t acceptable:
+
+To shore up a business.
+Remortgages to repay gambling debts.
+Purchases where the applicant is married or in a civil partnership and their spouse or partner isn’t included on the application.
+To repay tax.",
+19,kent_reliance_bank,Minimum and maximum loan size,"Standard residential mortgages
+Minimum loan: £50,000.
+Maximum loan: No maximum loan available on selected products. Please read our product guide for further details.
+
+Shared ownership
+Minimum loan: £50,000.
+Maximum advance: £1,000,000 - more available by exception.",
